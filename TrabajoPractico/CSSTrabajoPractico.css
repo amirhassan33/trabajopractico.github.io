@@ -1,0 +1,35 @@
+.Caja{
+
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+
+}
+
+#uno{
+
+    color: orange;
+    background-color: orangered;
+
+}
+
+#dos{
+
+    color: white;
+    background-color: black;
+
+}
+
+#tres{
+
+    color: orange;
+    background-color: orangered;
+
+}
+
+#cuatro{
+
+    color: orange;
+    background-color: orangered;
+
+}
